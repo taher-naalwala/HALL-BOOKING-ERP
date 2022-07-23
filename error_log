@@ -1,0 +1,264 @@
+[06-Jul-2020 11:52:51 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/indoree1/public_html/jamaatkhana/booking.php:21) in /home/indoree1/public_html/jamaatkhana/booking.php on line 22
+[06-Jul-2020 12:31:53 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/indoree1/public_html/jamaatkhana/booking.php:21) in /home/indoree1/public_html/jamaatkhana/booking.php on line 22
+[06-Jul-2020 12:35:30 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/indoree1/public_html/jamaatkhana/booking.php:21) in /home/indoree1/public_html/jamaatkhana/booking.php on line 22
+[06-Jul-2020 13:37:56 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/indoree1/public_html/jamaatkhana/booking.php:21) in /home/indoree1/public_html/jamaatkhana/booking.php on line 22
+[06-Jul-2020 13:39:07 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/indoree1/public_html/jamaatkhana/booking.php:21) in /home/indoree1/public_html/jamaatkhana/booking.php on line 22
+[06-Jul-2020 13:39:07 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/indoree1/public_html/jamaatkhana/booking.php on line 32
+[09-Jul-2020 08:26:57 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/indoree1/public_html/jamaatkhana/booking.php on line 35
+[14-Jul-2020 07:44:34 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/indoree1/public_html/jamaatkhana/laagat_booking_admin.php on line 509
+[14-Jul-2020 07:58:28 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/style.php on line 46
+[14-Jul-2020 07:58:28 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/style.php on line 97
+[14-Jul-2020 07:58:28 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/style.php on line 131
+[14-Jul-2020 07:58:28 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/style.php on line 178
+[14-Jul-2020 07:58:28 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/style.php on line 236
+[14-Jul-2020 08:00:47 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/style.php on line 46
+[14-Jul-2020 08:00:47 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/style.php on line 97
+[14-Jul-2020 08:00:47 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/style.php on line 131
+[14-Jul-2020 08:00:47 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/style.php on line 178
+[14-Jul-2020 08:00:47 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/style.php on line 236
+[14-Jul-2020 08:00:47 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/style.php on line 46
+[14-Jul-2020 08:00:47 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/style.php on line 97
+[14-Jul-2020 08:00:47 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/style.php on line 131
+[14-Jul-2020 08:00:47 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/style.php on line 178
+[14-Jul-2020 08:00:47 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/style.php on line 236
+[14-Jul-2020 08:00:48 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/style.php on line 46
+[14-Jul-2020 08:00:48 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/style.php on line 97
+[14-Jul-2020 08:00:48 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/style.php on line 131
+[14-Jul-2020 08:00:48 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/style.php on line 178
+[14-Jul-2020 08:00:48 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/style.php on line 236
+[14-Jul-2020 08:01:59 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/style.php on line 46
+[14-Jul-2020 08:01:59 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/style.php on line 97
+[14-Jul-2020 08:01:59 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/style.php on line 131
+[14-Jul-2020 08:01:59 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/style.php on line 178
+[14-Jul-2020 08:01:59 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/style.php on line 236
+[14-Jul-2020 08:06:22 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/indoree1/public_html/jamaatkhana/laagat_booking_admin.php on line 509
+[20-Jul-2020 07:09:24 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 799
+[20-Jul-2020 07:09:24 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 896
+[20-Jul-2020 07:09:24 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 1081
+[23-Jul-2020 06:16:15 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2331
+[23-Jul-2020 06:16:15 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2431
+[23-Jul-2020 06:16:15 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2626
+[23-Jul-2020 06:16:15 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2431
+[23-Jul-2020 06:16:15 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2626
+[23-Jul-2020 06:16:15 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2431
+[23-Jul-2020 06:16:15 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2626
+[23-Jul-2020 06:16:15 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2431
+[23-Jul-2020 06:16:15 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2626
+[23-Jul-2020 06:16:15 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2431
+[23-Jul-2020 06:16:15 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2626
+[23-Jul-2020 06:16:15 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2431
+[23-Jul-2020 06:16:15 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2626
+[23-Jul-2020 06:16:15 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2431
+[23-Jul-2020 06:16:15 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2626
+[23-Jul-2020 06:16:15 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2431
+[23-Jul-2020 06:16:15 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2626
+[24-Jul-2020 05:46:23 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 1292
+[24-Jul-2020 05:52:59 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 488
+[24-Jul-2020 05:52:59 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 551
+[24-Jul-2020 05:52:59 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 596
+[25-Jul-2020 05:12:05 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 1544
+[25-Jul-2020 05:12:05 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 1606
+[25-Jul-2020 05:12:05 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 1651
+[25-Jul-2020 05:15:16 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 1544
+[25-Jul-2020 05:15:16 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 1606
+[25-Jul-2020 05:15:16 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 1651
+[25-Jul-2020 05:16:40 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 1544
+[25-Jul-2020 05:16:40 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 1606
+[25-Jul-2020 05:16:40 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 1651
+[25-Jul-2020 07:59:13 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/block.php on line 170
+[25-Jul-2020 08:00:07 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/block.php on line 170
+[31-Jul-2020 05:33:30 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/block.php on line 170
+[31-Jul-2020 05:37:18 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/block.php on line 170
+[31-Jul-2020 05:42:44 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/block.php on line 170
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2436
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2536
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2753
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2536
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2753
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2536
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2753
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2536
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2753
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2536
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2753
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2536
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2753
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2536
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2753
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2536
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2753
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2536
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2753
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2536
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2753
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2536
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2753
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2536
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2753
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2536
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2753
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2536
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2753
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2536
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2753
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2536
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2753
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2536
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2753
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2536
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2753
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2536
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2753
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2536
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2753
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2536
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2753
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2536
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2753
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2536
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2753
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2536
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2753
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2536
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2753
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2536
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2753
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2536
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2753
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2536
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2753
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2536
+[03-Aug-2020 11:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2753
+[03-Aug-2020 11:25:33 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/unblock.php on line 182
+[03-Aug-2020 15:24:09 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 296
+[03-Aug-2020 15:24:09 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 396
+[03-Aug-2020 15:24:09 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 615
+[03-Aug-2020 10:09:34 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/indoree1/public_html/jamaatkhana/check_clearance.php on line 801
+[04-Aug-2020 13:48:16 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 296
+[04-Aug-2020 13:48:16 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 396
+[04-Aug-2020 13:48:16 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 615
+[04-Aug-2020 13:48:16 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 396
+[04-Aug-2020 13:48:16 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 615
+[06-Aug-2020 11:26:00 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 1555
+[06-Aug-2020 11:26:00 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 1617
+[06-Aug-2020 11:26:00 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 1662
+[06-Aug-2020 11:26:19 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 1555
+[06-Aug-2020 11:26:19 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 1617
+[06-Aug-2020 11:26:19 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 1662
+[20-Sep-2020 19:52:45 Asia/Kolkata] PHP Fatal error:  Call to a member function query() on null in /home/indoree1/public_html/jamaatkhana/edit.php on line 309
+[20-Sep-2020 19:53:29 Asia/Kolkata] PHP Fatal error:  Call to a member function query() on null in /home/indoree1/public_html/jamaatkhana/edit.php on line 309
+[20-Sep-2020 19:54:26 Asia/Kolkata] PHP Fatal error:  Call to a member function query() on null in /home/indoree1/public_html/jamaatkhana/edit.php on line 309
+[20-Sep-2020 19:55:40 Asia/Kolkata] PHP Fatal error:  Call to a member function query() on null in /home/indoree1/public_html/jamaatkhana/edit.php on line 309
+[31-Oct-2020 20:00:24 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2907
+[31-Oct-2020 20:00:24 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/indoree1/public_html/jamaatkhana/report.php on line 3004
+[11-Nov-2020 12:53:35 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 296
+[11-Nov-2020 12:53:35 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 396
+[11-Nov-2020 12:53:35 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 615
+[11-Nov-2020 12:53:35 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 396
+[11-Nov-2020 12:53:35 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 615
+[11-Nov-2020 12:53:35 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 396
+[11-Nov-2020 12:53:35 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 615
+[14-Nov-2020 11:42:57 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2915
+[14-Nov-2020 11:42:57 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 3015
+[14-Nov-2020 11:42:57 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 3234
+[14-Nov-2020 11:43:21 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2915
+[14-Nov-2020 11:43:21 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 3015
+[14-Nov-2020 11:43:21 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 3234
+[17-Nov-2020 11:17:15 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 1555
+[17-Nov-2020 11:17:15 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 1617
+[17-Nov-2020 11:17:15 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 1662
+[18-Nov-2020 16:28:13 Etc/GMT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/indoree1/public_html/jamaatkhana/style.php on line 35
+[18-Nov-2020 16:28:13 Etc/GMT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/indoree1/public_html/jamaatkhana/style.php on line 35
+[18-Nov-2020 16:28:13 Etc/GMT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/indoree1/public_html/jamaatkhana/style.php on line 35
+[18-Nov-2020 16:28:13 Etc/GMT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/indoree1/public_html/jamaatkhana/style.php on line 35
+[18-Nov-2020 16:28:13 Etc/GMT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/indoree1/public_html/jamaatkhana/style.php on line 35
+[18-Nov-2020 16:28:13 Etc/GMT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/indoree1/public_html/jamaatkhana/style.php on line 35
+[18-Nov-2020 16:28:13 Etc/GMT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/indoree1/public_html/jamaatkhana/style.php on line 35
+[18-Nov-2020 16:28:13 Etc/GMT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/indoree1/public_html/jamaatkhana/style.php on line 104
+[18-Nov-2020 16:28:13 Etc/GMT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/indoree1/public_html/jamaatkhana/style.php on line 104
+[18-Nov-2020 16:28:13 Etc/GMT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/indoree1/public_html/jamaatkhana/style.php on line 104
+[18-Nov-2020 16:28:13 Etc/GMT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/indoree1/public_html/jamaatkhana/style.php on line 104
+[18-Nov-2020 16:28:13 Etc/GMT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/indoree1/public_html/jamaatkhana/style.php on line 154
+[18-Nov-2020 16:28:13 Etc/GMT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/indoree1/public_html/jamaatkhana/style.php on line 154
+[18-Nov-2020 16:28:13 Etc/GMT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/indoree1/public_html/jamaatkhana/style.php on line 154
+[18-Nov-2020 16:28:13 Etc/GMT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/indoree1/public_html/jamaatkhana/style.php on line 154
+[18-Nov-2020 16:28:13 Etc/GMT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/indoree1/public_html/jamaatkhana/style.php on line 203
+[18-Nov-2020 16:28:13 Etc/GMT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/indoree1/public_html/jamaatkhana/style.php on line 203
+[18-Nov-2020 16:28:13 Etc/GMT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/indoree1/public_html/jamaatkhana/style.php on line 203
+[18-Nov-2020 16:28:13 Etc/GMT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/indoree1/public_html/jamaatkhana/style.php on line 203
+[18-Nov-2020 16:28:13 Etc/GMT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/indoree1/public_html/jamaatkhana/style.php on line 203
+[18-Nov-2020 16:28:13 Etc/GMT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/indoree1/public_html/jamaatkhana/style.php on line 203
+[18-Nov-2020 16:28:13 Etc/GMT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/indoree1/public_html/jamaatkhana/style.php on line 203
+[18-Nov-2020 16:28:13 Etc/GMT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/indoree1/public_html/jamaatkhana/style.php on line 203
+[18-Nov-2020 16:28:13 Etc/GMT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/indoree1/public_html/jamaatkhana/style.php on line 203
+[18-Nov-2020 16:28:13 Etc/GMT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/indoree1/public_html/jamaatkhana/style.php on line 203
+[18-Nov-2020 16:28:13 Etc/GMT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/indoree1/public_html/jamaatkhana/style.php on line 292
+[18-Nov-2020 16:28:13 Etc/GMT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/indoree1/public_html/jamaatkhana/style.php on line 292
+[18-Nov-2020 16:28:13 Etc/GMT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/indoree1/public_html/jamaatkhana/style.php on line 292
+[18-Nov-2020 16:28:13 Etc/GMT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/indoree1/public_html/jamaatkhana/style.php on line 292
+[18-Nov-2020 16:28:13 Etc/GMT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/indoree1/public_html/jamaatkhana/style.php on line 343
+[18-Nov-2020 16:28:13 Etc/GMT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/indoree1/public_html/jamaatkhana/style.php on line 371
+[18-Nov-2020 16:28:13 Etc/GMT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/indoree1/public_html/jamaatkhana/style.php on line 371
+[18-Nov-2020 16:28:13 Etc/GMT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/indoree1/public_html/jamaatkhana/style.php on line 371
+[18-Nov-2020 16:28:13 Etc/GMT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/indoree1/public_html/jamaatkhana/style.php on line 371
+[18-Nov-2020 16:28:13 Etc/GMT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/indoree1/public_html/jamaatkhana/style.php on line 426
+[18-Nov-2020 16:28:13 Etc/GMT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/indoree1/public_html/jamaatkhana/style.php on line 465
+[18-Nov-2020 16:28:13 Etc/GMT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/indoree1/public_html/jamaatkhana/maintainence.php on line 54
+[20-Nov-2020 12:14:14 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 2444
+[20-Nov-2020 12:37:06 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 296
+[20-Nov-2020 12:37:06 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 396
+[20-Nov-2020 12:37:06 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 615
+[20-Nov-2020 12:37:06 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 396
+[20-Nov-2020 12:37:06 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 615
+[20-Nov-2020 15:40:24 Asia/kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/indoree1/public_html/jamaatkhana/receipt.php on line 630
+[20-Nov-2020 15:40:24 Asia/kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/indoree1/public_html/jamaatkhana/receipt.php on line 630
+[20-Nov-2020 15:43:41 Asia/kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/indoree1/public_html/jamaatkhana/receipt.php on line 630
+[20-Nov-2020 19:52:41 Asia/kolkata] PHP Catchable fatal error:  Argument 1 passed to getIndianCurrency() must be an instance of float, string given, called in /home/indoree1/public_html/jamaatkhana/receipt.php on line 717 and defined in /home/indoree1/public_html/jamaatkhana/receipt.php on line 438
+[20-Nov-2020 19:52:54 Asia/kolkata] PHP Catchable fatal error:  Argument 1 passed to getIndianCurrency() must be an instance of float, string given, called in /home/indoree1/public_html/jamaatkhana/receipt.php on line 717 and defined in /home/indoree1/public_html/jamaatkhana/receipt.php on line 438
+[21-Nov-2020 10:49:44 Asia/kolkata] PHP Catchable fatal error:  Argument 1 passed to getIndianCurrency() must be an instance of float, string given, called in /home/indoree1/public_html/jamaatkhana/receipt.php on line 717 and defined in /home/indoree1/public_html/jamaatkhana/receipt.php on line 438
+[21-Nov-2020 10:49:57 Asia/kolkata] PHP Catchable fatal error:  Argument 1 passed to getIndianCurrency() must be an instance of float, string given, called in /home/indoree1/public_html/jamaatkhana/receipt.php on line 717 and defined in /home/indoree1/public_html/jamaatkhana/receipt.php on line 438
+[21-Nov-2020 10:56:05 Asia/kolkata] PHP Catchable fatal error:  Argument 1 passed to getIndianCurrency() must be an instance of float, string given, called in /home/indoree1/public_html/jamaatkhana/receipt.php on line 717 and defined in /home/indoree1/public_html/jamaatkhana/receipt.php on line 438
+[21-Nov-2020 10:56:11 Asia/kolkata] PHP Catchable fatal error:  Argument 1 passed to getIndianCurrency() must be an instance of float, string given, called in /home/indoree1/public_html/jamaatkhana/receipt.php on line 717 and defined in /home/indoree1/public_html/jamaatkhana/receipt.php on line 438
+[23-Nov-2020 05:23:13 Etc/GMT] PHP Warning:  mail(): Could not execute mail delivery program '/usr/sbin/sendmail -t -i' in /home/indoree1/public_html/jamaatkhana/mobile_check_admin.php on line 87
+[23-Nov-2020 13:45:47 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 879
+[23-Nov-2020 13:45:47 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 982
+[23-Nov-2020 13:45:47 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 1203
+[23-Nov-2020 13:45:47 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 982
+[23-Nov-2020 13:45:47 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/report.php on line 1203
+[25-Nov-2020 22:24:28 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 1366
+[25-Nov-2020 22:24:28 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 1431
+[25-Nov-2020 22:24:28 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 1479
+[25-Nov-2020 22:24:28 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 1431
+[25-Nov-2020 22:24:28 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 1479
+[25-Nov-2020 22:24:28 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 1431
+[25-Nov-2020 22:24:28 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 1479
+[25-Nov-2020 22:24:28 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 1431
+[25-Nov-2020 22:24:28 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 1479
+[25-Nov-2020 22:24:28 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 1431
+[25-Nov-2020 22:24:28 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 1479
+[25-Nov-2020 22:24:28 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 1431
+[25-Nov-2020 22:24:28 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 1479
+[25-Nov-2020 22:24:28 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 1431
+[25-Nov-2020 22:24:28 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 1479
+[25-Nov-2020 22:24:28 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 1431
+[25-Nov-2020 22:24:28 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 1479
+[25-Nov-2020 22:24:28 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 1431
+[25-Nov-2020 22:24:28 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 1479
+[25-Nov-2020 22:24:28 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 1431
+[25-Nov-2020 22:24:28 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 1479
+[25-Nov-2020 22:24:28 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 1431
+[25-Nov-2020 22:24:28 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 1479
+[25-Nov-2020 22:24:28 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 1431
+[25-Nov-2020 22:24:28 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 1479
+[25-Nov-2020 22:24:28 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 1431
+[25-Nov-2020 22:24:28 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 1479
+[01-Dec-2020 11:05:12 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/indoree1/public_html/jamaatkhana/add_security_deposit.php on line 257
+[01-Dec-2020 11:55:11 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 1616
+[01-Dec-2020 11:55:11 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 1681
+[01-Dec-2020 11:55:11 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/indoree1/public_html/jamaatkhana/edit_booking.php on line 1729
+[01-Dec-2020 11:58:08 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/indoree1/public_html/jamaatkhana/add_garbage.php on line 316
+[02-Dec-2020 11:08:23 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/indoree1/public_html/jamaatkhana/receipt.php on line 2964
+[02-Dec-2020 11:08:48 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/indoree1/public_html/jamaatkhana/receipt.php on line 2964
+[02-Dec-2020 11:09:58 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/indoree1/public_html/jamaatkhana/receipt.php on line 5171
+[03-Dec-2020 12:33:44 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/indoree1/public_html/jamaatkhana/add_garbage.php on line 318
+[03-Dec-2020 12:36:48 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/indoree1/public_html/jamaatkhana/add_garbage.php on line 318

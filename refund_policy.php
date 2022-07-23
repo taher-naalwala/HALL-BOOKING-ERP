@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Return, Refund & Cancellation Policy</title>
+</head>
+<body>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:18.0pt;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>Refund and Cancellation Policy</span></strong></p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:13px;font-family:"Arial",sans-serif;'><br> <span style="color:black;background:white;">Our focus is complete customer satisfaction. In the event, if you are displeased with the services provided, we will refund back the money, provided the reasons are genuine and proved after investigation. Please read the fine prints of each deal before buying it, it provides all the details about the services or the product you purchase.</span><br>&nbsp;<br> <span style="color:black;background:white;">In case of dissatisfaction from our services, clients have the liberty to cancel their projects and request a refund from us. Our Policy for the cancellation and refund will be as follows:</span></span></p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:13px;font-family:"Arial",sans-serif;'>&nbsp;Cancellation Policy</span></strong><span style='font-size:13px;font-family:"Arial",sans-serif;'><br>&nbsp;<br> <span style="color:black;background:white;">For Cancellations please contact the us via contact us link.&nbsp;</span><br>&nbsp;<br> <span style="color:black;background:white;">Requests received later than 7 business days prior to the end of the current service period will be treated as cancellation of services for the next service period.</span><br>&nbsp;<br> <strong><span style='font-family:"Arial",sans-serif;'>Refund Policy</span></strong><br>&nbsp;<br> <span style="color:black;background:white;">We will try our best to create the suitable design concepts for our clients.</span><br>&nbsp;<br> <span style="color:black;background:white;">In case any client is not completely satisfied with our products we can provide a refund.&nbsp;</span><br>&nbsp;<br> <span style="color:black;background:white;">If paid by credit card, refunds will be issued to the original credit card provided at the time of purchase and in case of payment gateway name payments refund will be made to the same account.</span></span></p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'>&nbsp;</p>
+</body>
+</html>
